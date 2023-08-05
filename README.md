@@ -20,5 +20,6 @@
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&layout=pie)](https://github.com/bharatbhusal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&layout=bar)](https://github.com/bharatbhusal/github-readme-stats)
+
 ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatbhusal&show_icons=true&theme=transparent)
