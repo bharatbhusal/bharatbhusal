@@ -1,4 +1,4 @@
-# Hi there, I'm Bharat 👋 
+# Hi there, I'm Bharat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 "You are never done Learning"
 ## I'm a Student, Community Moderator, Developer, and Learner!!
 
