@@ -12,13 +12,16 @@
 <a href="https://twitter.com/bharatbhusal02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharatbhusal02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bharatbhusal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharatbhusal" height="30" width="40" /></a>
 <a href="https://instagram.com/bharatbhusal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharatbhusal" height="30" width="40" /></a>
+<p/>
 
 📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=bharatbhusal&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&theme=transparent)
-<p/>
 <br />
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&layout=compact&theme=transparent)](https://github.com/bharatbhusal/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="right">![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatbhusal&show_icons=true&theme=transparent)<p/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&layout=compact&theme=transparent)](https://github.com/bharatbhusal/github-readme-stats)
+<p align="right">
+![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatbhusal&show_icons=true&theme=transparent)
+<p/>
