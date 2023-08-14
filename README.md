@@ -19,9 +19,9 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&layout=compact&theme=transparent)](https://github.com/bharatbhusal/github-readme-stats)
 </div>
 
-<div align="center">
+
  ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatbhusal&show_icons=true&theme=transparent)
-</div>
+
 
 <div align="center">
   <h4>My GitHub stats:</h4>
