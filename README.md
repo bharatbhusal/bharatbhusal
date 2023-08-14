@@ -15,9 +15,7 @@
 <a href="https://instagram.com/bharatbhusal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharatbhusal" height="30" width="40" /></a>
 <p/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&layout=compact&theme=transparent)](https://github.com/bharatbhusal/github-readme-stats)
-
- ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatbhusal&show_icons=true&theme=transparent)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&layout=compact&theme=transparent)](https://github.com/bharatbhusal/github-readme-stats) ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatbhusal&show_icons=true&theme=transparent)
 
 <div align="center">
   <h4>My GitHub stats:</h4>
