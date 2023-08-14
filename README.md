@@ -16,7 +16,7 @@
 <p/>
 
 <div align="center">
-  <h4>My GitHub stats:</h4>
+  <h4>Streak stats:</h4>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=bharatbhusal&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" alt="GitHub stats"/>
 </div>
 
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <h4>My GitHub stats:</h4>
+  <h4>Activities stats:</h4>
     <img src="https://github-readme-stats.vercel.app/api?username=bharatbhusal&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" alt="GitHub stats"/>
 </div>
 
