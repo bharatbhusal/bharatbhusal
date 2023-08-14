@@ -21,7 +21,7 @@
 
 <div align="center">
  ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatbhusal&show_icons=true&theme=transparent)
-</div>div>
+</div>
 
 <div align="center">
   <h4>My GitHub stats:</h4>
