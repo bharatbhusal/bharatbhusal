@@ -18,7 +18,7 @@
 
 <div align="center">
   <h4>My Top Languages:</h4>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&theme=dark&background=0D1116)" width = "10rem" alt="GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&theme=dark&background=0D1116)" width = "500px" alt="GitHub stats"/>
 </div>
 
 <div align="center">
