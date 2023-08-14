@@ -1,4 +1,4 @@
-<div align="center">
+
 # Hi there, I'm Bharat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 "You are never done Learning"
 ## I'm a Student, Community Moderator, Developer, and Learner!!
@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/bharatbhusal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharatbhusal" height="30" width="40" /></a>
 <a href="https://instagram.com/bharatbhusal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharatbhusal" height="30" width="40" /></a>
 <p/>
-
+<div align="center">
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&layout=compact&theme=transparent)](https://github.com/bharatbhusal/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatbhusal&show_icons=true&theme=transparent)
