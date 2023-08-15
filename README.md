@@ -1,11 +1,12 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&theme=dark&background=0D1116)" width = "300px" alt="GitHub stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&theme=dark&background=0D1116)" alt="GitHub stats"/>
+
 # Hi there, I'm Bharat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 "You are never done Learning"
 ## I'm a Student, Community Moderator, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and make friends
+- ⚡ Fun fact: I love to stay busy and make friends
 
 
 🔗 &nbsp;**Connect with me**
