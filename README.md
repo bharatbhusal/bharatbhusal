@@ -16,7 +16,7 @@
 <a href="https://instagram.com/bharatbhusal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharatbhusal" height="30" width="40" /></a>
 <p/>
   
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bharatbhusal&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=300px alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bharatbhusal&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=400px alt="GitHub stats"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bharatbhusal&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" alt="GitHub stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bharatbhusal&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=400px alt="GitHub stats"/>
 
