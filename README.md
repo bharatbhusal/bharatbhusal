@@ -2,7 +2,7 @@
 <a href="https://github.com/bharatbhusal/github-readme-stats"><img align="right" alt="Bharat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&langs_count=8&count_private=true&layout=compact&theme=react&border=5493F7&bg_color=0D1117" /></a>
 # Hi there, I'm Bharat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 "You are never done Learning"
-## I'm a Student, Community Moderator, Developer, and Learner!!
+## I'm a Community Moderator, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn more about web3
