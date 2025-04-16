@@ -1,13 +1,13 @@
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="center" width="50%">
       
 # Hi there, I'm Bharat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 "You are never done Learning"  
 
 </td>
-    <td valign="top" width="40%">
+    <td valign="center" width="50%">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=bharatbhusal&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&fire=2945AE&ring=5493F7&currStreakLabel=5493F7" width="400px" alt="GitHub stats"/>
 
 </td>
