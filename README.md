@@ -8,8 +8,7 @@
 
 </td>
     <td valign="top" width="40%">
-      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=bharatbhusal&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&fire=2945AE&ring=5493F7&currStreakLabel=5493F7" width="400px" alt="GitHub stats"/>
 
 </td>
   </tr>
@@ -30,5 +29,17 @@
 </p>
 
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bharatbhusal&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&fire=2945AE&ring=5493F7&currStreakLabel=5493F7" width="400px" alt="GitHub stats"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=bharatbhusal&theme=transparent"/>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&theme=transparent&include_all_commits=true&count_private=true&layout=compact"/>
+      </td>
+      <td valign="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=bharatbhusal&theme=transparent"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
