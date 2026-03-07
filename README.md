@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-## I'm a Security Auditor, Developer, Community Moderator !!
+## I'm a Software Engineer and Explorer !!
 
 - 🌱 I’m currently learning everything 🤣  
 - 🥅 2026 Goals: Be curious.
