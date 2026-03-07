@@ -17,8 +17,8 @@
 ## I'm a Security Auditor, Developer, Community Moderator !!
 
 - 🌱 I’m currently learning everything 🤣  
-- 🥅 2025 Goals: Be curious.
-- ⚡ Fun fact: I love to stay busy and make friends.
+- 🥅 2026 Goals: Be curious.
+- ⚡ Fun fact: I love to stay busy.
 
 🔗 &nbsp;**Connect with me**  
 <p align="left">
