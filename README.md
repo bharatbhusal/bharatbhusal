@@ -36,7 +36,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatbhusal&theme=transparent&include_all_commits=true&count_private=true&layout=compact"/>
       </td>
       <td valign="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=bharatbhusal&theme=transparent"/>
+        <img src="https://streak-stats.demolab.com/?user=bharatbhusal&theme=transparent"/>
       </td>
     </tr>
   </table>
